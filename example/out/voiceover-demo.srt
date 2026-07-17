@@ -1,0 +1,68 @@
+﻿1
+00:00:00,000 --> 00:00:03,716
+Here is how I automated my morning routine
+
+2
+00:00:03,716 --> 00:00:07,787
+all of it runs while I am still hitting snooze
+
+3
+00:00:07,787 --> 00:00:12,034
+First, a script pulls my calendar and to-do list
+
+4
+00:00:12,034 --> 00:00:17,077
+then it picks the three things that actually matter today
+
+5
+00:00:17,077 --> 00:00:19,997
+It fires off a smart-plug command
+
+6
+00:00:19,997 --> 00:00:26,722
+so my coffee starts brewing five minutes before I even walk into the kitchen
+
+7
+00:00:26,722 --> 00:00:31,765
+Then it records a 30-second voice note summarizing my day
+
+8
+00:00:31,765 --> 00:00:34,951
+and sends it to my own messaging app
+
+9
+00:00:34,951 --> 00:00:36,986
+Three small automations
+
+10
+00:00:36,986 --> 00:00:37,871
+That is it
+
+11
+00:00:37,871 --> 00:00:42,029
+But it saves me 20 minutes every single morning
+
+12
+00:00:42,029 --> 00:00:44,861
+I used to wake up already behind
+
+13
+00:00:44,861 --> 00:00:46,896
+Now I wake up caught up
+
+14
+00:00:46,896 --> 00:00:49,993
+The whole thing is a 40-line script
+
+15
+00:00:49,993 --> 00:00:54,594
+I will link it in the comments if you want to try it
+
+16
+00:00:54,594 --> 00:00:58,487
+Seriously go automate one thing this weekend
+
+17
+00:00:58,487 --> 00:01:03,000
+Future you will be annoyed you did not do it sooner
+
